@@ -19,8 +19,7 @@
     "plugin:react/recommended",
     "plugin:jsx-a11y/recommended",
     "plugin:@typescript-eslint/recommended",
-    //"plugin:prettier/recommended"
-    "prettier"
+    "plugin:prettier/recommended"
   ],
   "rules": {
     "prettier/prettier": ["error", { "endOfLine": "auto", "useTabs": false }],
